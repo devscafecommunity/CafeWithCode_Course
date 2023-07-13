@@ -8,7 +8,7 @@ Café with Code Course é um curso & roadmap open source para iniciantes na prog
 **1. [Introdução à Programação](https://github.com/devscafecomunity/CafeWithCode_Course/tree/main/roadmap/1_Introducao_a_Programacao)**
 - [Apresentação da linguagem C e suas características.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/1_Introducao_a_Programacao/1.MD)
 - [Explicação dos conceitos básicos de programação, como algoritmos, variáveis, tipos de dados, estruturas de controle (condicionais e loops) e funções.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/1_Introducao_a_Programacao/2.md)
-- Configuração do ambiente de desenvolvimento, incluindo a instalação de um compilador C e um editor de código.
+- [Configuração do ambiente de desenvolvimento, incluindo a instalação de um compilador C e um editor de código.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/1_Introducao_a_Programacao/3.MD)
 
 **2. Sintaxe e Estrutura do Programa em C**
 - Exploração da estrutura básica de um programa em C.
