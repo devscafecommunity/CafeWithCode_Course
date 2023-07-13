@@ -1,6 +1,9 @@
 # CafeWithCode_Course
 Café with Code Course é um curso e roadmap para iniciantes na programação baseado na linguagem C que é uma das mais basicas e poderosas ferramentas. 
 
+
+> Roadmap
+
 **1. Introdução à Programação**
 - Apresentação da linguagem C e suas características.
 - Explicação dos conceitos básicos de programação, como algoritmos, variáveis, tipos de dados, estruturas de controle (condicionais e loops) e funções.
