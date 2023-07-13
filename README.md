@@ -1,5 +1,5 @@
 # CafeWithCode_Course
-Café with Code Course é um curso e roadmap para iniciantes na programação baseado na linguagem C que é uma das mais basicas e poderosas ferramentas. 
+Café with Code Course é um curso & roadmap open source para iniciantes na programação baseado na linguagem C que é uma das mais basicas e poderosas ferramentas. 
 
 [Questions and Responses](https://github.com/orgs/devscafecomunity/discussions/categories/cafe-with-code-course)
 
