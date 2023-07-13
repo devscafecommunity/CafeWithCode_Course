@@ -13,7 +13,7 @@ Café with Code Course é um curso & roadmap open source para iniciantes na prog
 **2. [Sintaxe e Estrutura do Programa em C](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/2_Estrutura_Programa_C/)**
 - [Exploração da estrutura básica de um programa em C.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/2_Estrutura_Programa_C/1.MD)
 - [Explicação da sintaxe da linguagem, incluindo declaração de variáveis, operadores, expressões e instruções.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/2_Estrutura_Programa_C/2.MD)
-- Uso de comentários e formatação adequada do código.
+- [Uso de comentários e formatação adequada do código.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/2_Estrutura_Programa_C/3.MD)
 
 **3. Tipos de Dados e Variáveis**
 - Introdução aos tipos de dados fundamentais em C, como inteiros, ponto flutuante, caracteres e booleanos.
