@@ -21,21 +21,20 @@ Café with Code Course é um curso & roadmap open source para iniciantes na prog
 - [Conversão entre diferentes tipos de dados.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/3_Tipos_fundamentais/3.MD)
 - [Escopo das variáveis.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/3_Tipos_fundamentais/4.MD)
 
-**4. Estruturas de Controle**
-- Utilização de estruturas de controle condicionais, como if-else e switch-case.
-- Utilização de estruturas de repetição (loops), como while, for e do-while.
-- Exploração de exemplos práticos e exercícios para aplicar os conceitos aprendidos.
+**4. [Estruturas de Controle](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/4_Estruturas_de_Control)**
+- [Utilização de estruturas de controle condicionais, como if-else e switch-case.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/4_Estruturas_de_Control/1.MD)
+- [Utilização de estruturas de repetição (loops), como while, for e do-while.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/4_Estruturas_de_Control/2.MD)
+- [Exploração de exemplos práticos e exercícios para aplicar os conceitos aprendidos.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/4_Estruturas_de_Control/3.MD)
 
-**5. Arrays e Strings**
-- Declaração e manipulação de arrays unidimensionais e multidimensionais.
-- Uso de strings e funções relacionadas para manipulação de texto.
-- Exploração de exemplos práticos e exercícios para aprofundar o entendimento desses conceitos.
+**5. [Arrays e Strings](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/5_Manipulacao_de_Arrays/)**
+- [Declaração e manipulação de arrays unidimensionais e multidimensionais.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/5_Manipulacao_de_Arrays/1.MD)
+- [Uso de strings e funções relacionadas para manipulação de texto.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/5_Manipulacao_de_Arrays/2.MD)
 
-**6. Funções**
-- Definição e chamada de funções em C.
-- Passagem de parâmetros por valor e por referência.
-- Retorno de valores em funções.
-- Funções recursivas.
+**6. [Funções](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/6_Funcoes/)**
+- [Definição e chamada de funções em C.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/6_Funcoes/1.MD)
+- [Passagem de parâmetros por valor e por referência.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/6_Funcoes/2.MD)
+- [Retorno de valores em funções.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/6_Funcoes/3.MD)
+- [Funções recursivas.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/6_Funcoes/4.MD)
 
 **7. Ponteiros**
 - Introdução aos ponteiros e seu papel na linguagem C.
