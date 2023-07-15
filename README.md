@@ -15,11 +15,11 @@ Café with Code Course é um curso & roadmap open source para iniciantes na prog
 - [Explicação da sintaxe da linguagem, incluindo declaração de variáveis, operadores, expressões e instruções.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/2_Estrutura_Programa_C/2.MD)
 - [Uso de comentários e formatação adequada do código.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/2_Estrutura_Programa_C/3.MD)
 
-**3. Tipos de Dados e Variáveis**
-- Introdução aos tipos de dados fundamentais em C, como inteiros, ponto flutuante, caracteres e booleanos.
-- Declaração de variáveis e atribuição de valores.
-- Conversão entre diferentes tipos de dados.
-- Escopo das variáveis.
+**3. [Tipos de Dados e Variáveis](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/3_Tipos_fundamentais)**
+- [Introdução aos tipos de dados fundamentais em C, como inteiros, ponto flutuante, caracteres e booleanos.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/3_Tipos_fundamentais/1.MD)
+- [Declaração de variáveis e atribuição de valores](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/3_Tipos_fundamentais/2.MD).
+- [Conversão entre diferentes tipos de dados.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/3_Tipos_fundamentais/3.MD)
+- [Escopo das variáveis.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/3_Tipos_fundamentais/4.MD)
 
 **4. Estruturas de Controle**
 - Utilização de estruturas de controle condicionais, como if-else e switch-case.
