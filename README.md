@@ -15,13 +15,13 @@ Welcome to DevCourse, an open-source programming course for beginners!
 DevCourse is a free and open-source course designed to help beginners learn programming concepts and develop their coding skills. Whether you're new to programming or looking to expand your knowledge, this course provides a structured curriculum and practical projects to enhance your learning experience.
 
 ## Languages
-The DevCourse currently offers the following programming languages:
+The DevCourse currently offers the following languages:
 
 | Languages |
 |-----------|
 | [pt-BR](https://github.com/devscafecomunity/CafeWithCode_Course/tree/main/roadmap/pt/roadmap.md) |
 
-Please note that the course materials, including lessons and exercises, are currently provided in Portuguese (Brazilian).
+Please note that the course materials, including lessons and exercises, are currently provided in Portuguese (Brazilian) so we still working on translations.
 
 ## Discussions
 Join the discussion in our community forum to ask questions, share experiences, and connect with fellow learners. Visit [Discussions](https://github.com/orgs/devscafecomunity/discussions) to participate in the conversation.
