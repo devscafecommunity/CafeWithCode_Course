@@ -1,3 +1,5 @@
+> Curently just PT-PT is Made soonly we working on more languages.
+
 # CafeWithCode_Course
 Café with Code Course é um curso & roadmap open source para iniciantes na programação baseado na linguagem C que é uma das mais basicas e poderosas ferramentas. 
 
