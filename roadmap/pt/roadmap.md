@@ -53,5 +53,5 @@ Café with Code Course é um curso & roadmap open source para iniciantes na prog
 - [Manipulação de arquivos em C: abertura, leitura, gravação e fechamento.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/pt/9_ArquivosIO/2.MD)
 - [Utilização das funções de entrada/saída padrão (stdio.h) para interagir com o usuário.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/pt/9_ArquivosIO/3.MD)
 
-**10. [Práticas de Programação e Projetos](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/pt/10_Praticas_e_Projetos/**
+**10. [Práticas de Programação e Projetos](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/pt/10_Praticas_e_Projetos/)**
 - [Desenvolvimento de pequenos projetos utilizando os conceitos aprendidos ao longo do curso.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/pt/10_Praticas_e_Projetos/1.MD)
