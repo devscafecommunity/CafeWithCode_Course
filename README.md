@@ -36,23 +36,22 @@ Café with Code Course é um curso & roadmap open source para iniciantes na prog
 - [Retorno de valores em funções.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/6_Funcoes/3.MD)
 - [Funções recursivas.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/6_Funcoes/4.MD)
 
-**7. Ponteiros**
-- Introdução aos ponteiros e seu papel na linguagem C.
-- Manipulação de endereços de memória.
-- Alocação dinâmica de memória com malloc e free.
-- Exploração de exemplos práticos e exercícios para consolidar o conhecimento sobre ponteiros.
+**7. [Ponteiros](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/7_Ponteiros/)**
+- [Funcionamento da memoria.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/7_Ponteiros/1.MD)
+- [Introdução aos ponteiros e seu papel na linguagem C.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/7_Ponteiros/2.MD)
+- [Manipulação de endereços de memória.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/7_Ponteiros/3.MD)
+- [Alocação dinâmica de memória com malloc e free.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/7_Ponteiros/4.MD)
+- [Exploração de exemplos práticos e exercícios para consolidar o conhecimento sobre ponteiros.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/7_Ponteiros/5.MD)
 
-**8. Estruturas e Enumerações**
-- Criação de estruturas para agrupar diferentes tipos de dados relacionados.
-- Utilização de enumerações para definir conjuntos de constantes relacionadas.
-- Exploração de exemplos práticos e exercícios para aplicar esses conceitos.
+**8. [Estruturas e Enumerações](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/8_Estruturas_Enumeracoes/)**
+- [Estruturas de dados](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/8_Estruturas_Enumeracoes/1.MD)
+- [Criação de estruturas para agrupar diferentes tipos de dados relacionados.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/8_Estruturas_Enumeracoes/2.MD)
+- [Utilização de enumerações para definir conjuntos de constantes relacionadas.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/8_Estruturas_Enumeracoes/3.MD)
 
-**9. Arquivos e Entrada/Saída**
-- Manipulação de arquivos em C: abertura, leitura, gravação e fechamento.
-- Utilização das funções de entrada/saída padrão (stdio.h) para interagir com o usuário.
-- Exploração de exemplos práticos e exercícios para aprofundar o entendimento desses conceitos.
+**9. [Arquivos e Entrada/Saída](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/9_ArquivosIO/)**
+- [Buffer de leitura e escrita](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/9_ArquivosIO/1.MD)
+- [Manipulação de arquivos em C: abertura, leitura, gravação e fechamento.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/9_ArquivosIO/2.MD)
+- [Utilização das funções de entrada/saída padrão (stdio.h) para interagir com o usuário.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/9_ArquivosIO/3.MD)
 
-**10. Práticas de Programação e Projetos**
-- Desenvolvimento de pequenos projetos utilizando os conceitos aprendidos ao longo do curso.
-- Resolução de problemas e desafios de programação em C.
-- Encorajamento da prática constante de programação para fortalecer as habilidades adquiridas.
+**10. [Práticas de Programação e Projetos](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/10_Praticas_e_Projetos/**
+- [Desenvolvimento de pequenos projetos utilizando os conceitos aprendidos ao longo do curso.](https://github.com/devscafecomunity/CafeWithCode_Course/blob/main/roadmap/10_Praticas_e_Projetos/1.MD)
