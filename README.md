@@ -1,6 +1,6 @@
 # DevCourse
 
-Welcome to DevCourse, an open-source programming course for beginners!
+Welcome to DevCourse, an open-source programming course for beginners based on C programing language!
 
 ## Table of Contents
 - [DevCourse](#devcourse)
