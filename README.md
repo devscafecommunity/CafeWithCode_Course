@@ -1,8 +1,11 @@
 # DevCourse
+<p align="center" width="100%">
+    <img src="https://raw.githubusercontent.com/devscafecomunity/CafeWithCode_Course/main/assets/logo.png" alt="Dev's Café" width=300 height=300>
+</p>
 
-Welcome to DevCourse, an open-source programming course specifically designed for beginners, with a strong emphasis on the fundamentals of the C programming language!
 
 ## Introduction
+Welcome to DevCourse, an open-source programming course specifically designed for beginners, with a strong emphasis on the fundamentals of the C programming language!
 DevCourse is a free and open-source course that aims to help beginners learn programming concepts and develop their coding skills. Whether you are stepping into the programming world for the first time or seeking to build a solid foundation in C, DevCourse is your guide on this learning journey. With a comprehensive curriculum, practical examples, and engaging projects, this course equips you with the core concepts of programming using C.
 
 By joining DevCourse, you will gain a deep understanding of C's syntax, data types, control flow, functions, and more. You will explore essential programming techniques and problem-solving strategies, empowering you to write efficient and reliable code.
