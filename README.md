@@ -1,8 +1,15 @@
-# CafeWithCode_Course
-
-<p align="center" width="100%">
-    <img src="/assets/icon.png" alt="Dev's Café" width=300 height=300>
+<p align="center">
+  <a href="#">
+  </a>
+  <p align="center">
+   <img width="150" height="150" src="assets/icon.png" alt="Logo">
+  </p>
+  <h1 align="center"><b>CafeWithCode_Course</b></h1>
+  <p align="center">
+    Café with Code Course is a course and roadmap for beginners in programming based on the C language which is one of the most basic and powerful tools.
+  </p>
 </p>
+<br>
 
 ## Introduction
 
