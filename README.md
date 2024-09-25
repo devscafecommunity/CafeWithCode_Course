@@ -25,7 +25,7 @@ CafeWithCode_Course currently offers courses in the following language:
 
 | Language |
 |----------|
-| [pt-BR](https://github.com/devscafecomunity/CafeWithCode_Course/tree/main/roadmap/pt/roadmap.md) |
+| [PT](https://github.com/devscafecomunity/CafeWithCode_Course/tree/main/roadmap/pt/roadmap.md) |
 
 Please note that the course materials, including lessons and exercises, are currently available in Portuguese (Brazilian). We're actively working on expanding our language offerings.
 
